@@ -2,6 +2,8 @@
 ![](logo.png)
 > #### Факультет Data Engineering
 ___
+#### [Курсовой проект](https://github.com/TolstikovIgor/Airflow/tree/main/lesson4)
+___
 #### [Урок 1. Планирование задач. Введение Apache AirFlow](https://github.com/TolstikovIgor/Airflow/tree/main/lesson1)
 * Планировщик задач cron
 * Почему именно Airflow?
