@@ -3,6 +3,7 @@
 > #### Факультет Data Engineering
 ___
 #### [Курсовой проект](https://github.com/TolstikovIgor/Airflow/tree/main/lesson4)
+Переписать пайплайн используя синтаксис TaskFlow API из Airflow 2.0
 ___
 #### [Урок 1. Планирование задач. Введение Apache AirFlow](https://github.com/TolstikovIgor/Airflow/tree/main/lesson1)
 * Планировщик задач cron
